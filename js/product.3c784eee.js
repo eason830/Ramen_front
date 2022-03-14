@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["product"],{d2f1:function(n,e,t){"use strict";t.r(e);var p=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("v-app")},c=[],o={name:"Product",components:{}},u=o,a=t("2877"),r=t("6544"),l=t.n(r),s=t("7496"),d=Object(a["a"])(u,p,c,!1,null,null,null);e["default"]=d.exports;l()(d,{VApp:s["a"]})}}]);
+//# sourceMappingURL=product.3c784eee.js.map

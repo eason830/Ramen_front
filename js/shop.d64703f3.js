@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["shop"],{"0fa5":function(n,e,p){"use strict";p.r(e);var t=function(){var n=this,e=n.$createElement,p=n._self._c||e;return p("v-app")},a=[],o={name:"Shop",components:{}},s=o,c=p("2877"),l=p("6544"),u=p.n(l),r=p("7496"),i=Object(c["a"])(s,t,a,!1,null,null,null);e["default"]=i.exports;u()(i,{VApp:r["a"]})}}]);
+//# sourceMappingURL=shop.d64703f3.js.map
