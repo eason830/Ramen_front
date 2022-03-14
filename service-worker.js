@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.52b34997cbd381d9a75e75cf3ac408e0.js"
+  "precache-manifest.69f05ea1cd36dde8fad777c015cecf60.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "final"});
+workbox.core.setCacheNameDetails({prefix: "Ramen_front"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
