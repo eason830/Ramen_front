@@ -17,7 +17,6 @@
         <v-tab  to="/about"><h2>品牌介紹</h2></v-tab>
         <v-tab to="/menu"><h2>菜單</h2></v-tab>
         <v-tab to="/shop"><h2>網路商城</h2></v-tab>
-        <v-tab to="/product"><h2>商品</h2></v-tab>
         <v-tab v-if="!user.isLogin" to="/register"><h2>註冊</h2></v-tab>
         <v-tab v-if="!user.isLogin" to="/login"><h2>登入</h2></v-tab>
         <v-tab v-if="user.isLogin && user.isAdmin" to="/admin"><h2>管理</h2></v-tab>
@@ -26,7 +25,7 @@
       </v-tabs>
     </template>
   </v-app-bar>
-  <router-view></router-view>
+  <router-view :key='$route.fullPath'></router-view>
   <Footer></Footer>
 </v-app>
 </template>
