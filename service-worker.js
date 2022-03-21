@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.e8cac3e398cc6afd069071c0c65c59dc.js"
+  "precache-manifest.f9c121fd03c55a374b9b85a1e4afff8d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Ramen_front"});

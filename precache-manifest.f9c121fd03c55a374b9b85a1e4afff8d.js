@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e395822729b654888c74",
+    "revision": "a05e6ed219d9a4f52b63",
     "url": "css/admin.c35e495e.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/admin~cart~login~product~register.c9f5a90d.css"
   },
   {
-    "revision": "36a2081311903beb5d99",
+    "revision": "2246d3bbc5cd34113db7",
     "url": "css/app.60414ca9.css"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/logo_nav.519a9f54.png"
   },
   {
-    "revision": "d991ae853b0baf162f7b8fd9378b4002",
+    "revision": "8f3ad8ea4fd87a600a666645e4fea9af",
     "url": "index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/about.3916668a.js"
   },
   {
-    "revision": "e395822729b654888c74",
-    "url": "js/admin.b802c298.js"
+    "revision": "a05e6ed219d9a4f52b63",
+    "url": "js/admin.bc9909ed.js"
   },
   {
     "revision": "af29112f179665aaa256",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/admin~cart~login~product~register.f972029d.js"
   },
   {
-    "revision": "36a2081311903beb5d99",
-    "url": "js/app.48a05b32.js"
+    "revision": "2246d3bbc5cd34113db7",
+    "url": "js/app.9cbccbdd.js"
   },
   {
     "revision": "ec7708f65477e13976f4",
