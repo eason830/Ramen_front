@@ -16,7 +16,11 @@ Vue.component('ImgInputer', ImgInputer)
 Vue.use(VueSweetalert2)
 Vue.mixin(mixin)
 
+
 Vue.config.productionTip = false
+
+Vue.config.devtools = true
+
 
 new Vue({
   router,
